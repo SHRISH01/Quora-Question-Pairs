@@ -8,7 +8,7 @@ Given two questions, the goal is to identify if they are asking the same questio
 
 - "What is the capital of France?" and "What is the capital of Paris?" are considered **similar**.
 - "What is the capital of France?" and "How does a plane fly?" are considered **not similar**.
-
+ 
 ## Approach 
   
 In this project, we use a combination of **text preprocessing**, **Word2Vec embeddings**, and **XGBoost** to classify the similarity between pairs of questions.
