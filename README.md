@@ -3,7 +3,7 @@
 This project is part of the [Kaggle Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs) competition. The task is to determine whether two questions asked on Quora are semantically similar or not. The goal is to predict whether a pair of questions are asking the same thing, which is useful for duplicate question detection.
  
 ## Problem Statement
-
+ 
 Given two questions, the goal is to identify if they are asking the same question or not. For example:
 
 - "What is the capital of France?" and "What is the capital of Paris?" are considered **similar**.
